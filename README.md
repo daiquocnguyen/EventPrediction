@@ -1,6 +1,6 @@
 # Event Prediction Datasets
 
-**Please cite** [our IJCNLP 2017 paper](http://www.aclweb.org/anthology/I17-2007) whenever the datasets are used to produce published results:
+Please cite [our IJCNLP 2017 paper](http://www.aclweb.org/anthology/I17-2007) whenever the datasets are used to produce published results:
 
     @InProceedings{Nguyen2017EP,
       author    = {Nguyen, Dai Quoc  and  Nguyen, Dat Quoc  and  Chu, Cuong Xuan  and  Thater, Stefan  and  Pinkal, Manfred},
